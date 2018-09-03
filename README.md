@@ -9,8 +9,8 @@ A Chrome extension that let's you select and download images with ease.
 - click 'Load unpacked'
 - select the BGJJ-Image-Grabber folder
 - visit a webpage
-- open the console by pressing command + option + j
 - press the BGJJ Image Grabber button on the top right of your browser
+- in the new tab, open the console by pressing command + option + j
 
 You will now see a list of links to all the images on the page in your console. From here you can click through and download images.
 

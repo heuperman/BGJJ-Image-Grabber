@@ -11,3 +11,7 @@ function showSrc(message, sender, sendResponse) {
     }
   }
 }
+
+// show all images
+// show metadata
+// when clicking on image it downloads

@@ -9,7 +9,8 @@
     "128": "icon128.png"
   },
   "permissions": [
-       "downloads"
+       "downloads",
+       "tabs"
      ],
   "background": {
     "scripts": ["background.js"]
