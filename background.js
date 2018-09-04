@@ -11,7 +11,6 @@ function buttonClicked(tab) {
     }, function(tab) {
       chrome.tabs.onUpdated.addListener(function (tabId, info) {
         if (info.status === "complete") {
-          console.log(tab);
           var msg = { text: "show images" };
           chrome.tabs.sendMessage(tab.id, msg);
         }
