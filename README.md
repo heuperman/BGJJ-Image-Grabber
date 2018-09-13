@@ -15,9 +15,7 @@ A Chrome extension that let's you select and download images with ease.
 You will now see a list of all the images on the page with the title and size of each image below it. Clicking on the images will download it to your computer.
 
 ## Known issues
-- image size not always displayed correctly
 - some images do not download but open in a new tab instead (this could be a Cross Origin issue)
-- images not loaded before click on button show up as broken links
 
 ## Credit
 Icon made by [Kiranshastry](https://www.flaticon.com/authors/kiranshastry) from [Flaticon](https://www.flaticon.com/) licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
